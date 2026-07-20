@@ -15,6 +15,7 @@ A proposta foi organizar esses dados e transforma-los em informacoes mais claras
 2. Executar os scripts das camadas Raw, Silver e Gold  
 3. Rodar o notebook com o processo de ETL e as analises 
 
+Importante: Os dados sao carregados e tratados diretamente no notebook, nao sendo necessario envio do banco.
 ---
 
 ## Estrutura do projeto
